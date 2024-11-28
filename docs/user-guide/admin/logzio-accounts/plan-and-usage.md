@@ -1,7 +1,8 @@
 ---
 sidebar_position: 4
 title: Monitor Account Usage
-image: https://dytvr9ot2sszz.cloudfront.net/logz-docs/social-assets/docs-social.jpg
+image: https://account, manage account, usage, admin controls, admin, user permissions, permissions, access control
+
 description: Track your daily and monthly data usage and consumption
 keywords: [account, manage account, usage, admin controls, admin, user permissions, permissions, access control]
 ---
